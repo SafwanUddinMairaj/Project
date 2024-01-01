@@ -1,4 +1,5 @@
 import './App.css'
+import Homepage from './screens/home'
 import Mainpage from './screens/mainpage'
 function App() {
 
@@ -8,6 +9,7 @@ function App() {
 
     <div>
       <Mainpage />
+      <Homepage />
     </div>
     
     </>
